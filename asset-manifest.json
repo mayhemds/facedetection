@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/facedetection/static/css/main.3909b00c.chunk.css",
+    "main.js": "/facedetection/static/js/main.e3eab340.chunk.js",
+    "main.js.map": "/facedetection/static/js/main.e3eab340.chunk.js.map",
+    "runtime~main.js": "/facedetection/static/js/runtime~main.8556d5a5.js",
+    "runtime~main.js.map": "/facedetection/static/js/runtime~main.8556d5a5.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/facedetection/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.db7ce4e3.chunk.js": "/facedetection/static/js/2.db7ce4e3.chunk.js",
+    "static/js/2.db7ce4e3.chunk.js.map": "/facedetection/static/js/2.db7ce4e3.chunk.js.map",
+    "index.html": "/facedetection/index.html",
+    "precache-manifest.db8aafa1ccbe373b27f4744fa6aca784.js": "/facedetection/precache-manifest.db8aafa1ccbe373b27f4744fa6aca784.js",
+    "service-worker.js": "/facedetection/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/facedetection/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.3909b00c.chunk.css.map": "/facedetection/static/css/main.3909b00c.chunk.css.map"
+  }
+}
